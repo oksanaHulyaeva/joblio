@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/joblio/static/css/main.384a84c1.chunk.css",
-    "main.js": "/joblio/static/js/main.a099927d.chunk.js",
-    "main.js.map": "/joblio/static/js/main.a099927d.chunk.js.map",
+    "main.css": "/joblio/static/css/main.d7299204.chunk.css",
+    "main.js": "/joblio/static/js/main.7cbf81e1.chunk.js",
+    "main.js.map": "/joblio/static/js/main.7cbf81e1.chunk.js.map",
     "runtime-main.js": "/joblio/static/js/runtime-main.6b916ab3.js",
     "runtime-main.js.map": "/joblio/static/js/runtime-main.6b916ab3.js.map",
-    "static/js/2.cc2a7860.chunk.js": "/joblio/static/js/2.cc2a7860.chunk.js",
-    "static/js/2.cc2a7860.chunk.js.map": "/joblio/static/js/2.cc2a7860.chunk.js.map",
+    "static/js/2.1175578a.chunk.js": "/joblio/static/js/2.1175578a.chunk.js",
+    "static/js/2.1175578a.chunk.js.map": "/joblio/static/js/2.1175578a.chunk.js.map",
     "index.html": "/joblio/index.html",
-    "static/css/main.384a84c1.chunk.css.map": "/joblio/static/css/main.384a84c1.chunk.css.map",
-    "static/js/2.cc2a7860.chunk.js.LICENSE.txt": "/joblio/static/js/2.cc2a7860.chunk.js.LICENSE.txt",
+    "static/css/main.d7299204.chunk.css.map": "/joblio/static/css/main.d7299204.chunk.css.map",
+    "static/js/2.1175578a.chunk.js.LICENSE.txt": "/joblio/static/js/2.1175578a.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/joblio/static/media/bg4.baa2cc93.jpg",
     "static/media/header.scss": "/joblio/static/media/header_bg.c48cae02.jpeg",
     "static/media/globe.scss": "/joblio/static/media/worldmap.66bb1c77.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b916ab3.js",
-    "static/js/2.cc2a7860.chunk.js",
-    "static/css/main.384a84c1.chunk.css",
-    "static/js/main.a099927d.chunk.js"
+    "static/js/2.1175578a.chunk.js",
+    "static/css/main.d7299204.chunk.css",
+    "static/js/main.7cbf81e1.chunk.js"
   ]
 }
